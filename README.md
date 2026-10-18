@@ -5,8 +5,8 @@ Personal blog hosted with GitHub Pages: https://space4clarity.github.io/
 Daily Reading automatically selects a passage from a cached Project Gutenberg book,
 generates a 500–800-word reflection, verifies its quotation and structure, obtains a
 separate AI editorial check, and publishes one post per America/Denver calendar day.
-The homepage, archive, and RSS feed update with each post. Existing personal posts
-are preserved. Generated entries disclose AI authorship.
+The homepage, archive, and RSS feed update with each post. The site contains the
+Daily Reading series; generated entries disclose AI authorship.
 
 ## Run locally
 
