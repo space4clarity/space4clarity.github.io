@@ -1,0 +1,9 @@
+{
+  "type":"object","additionalProperties":false,
+  "required":["title","summary","topic","passage_index","quote","paragraphs","question"],
+  "properties":{
+    "title":{"type":"string"},"summary":{"type":"string"},"topic":{"type":"string"},
+    "passage_index":{"type":"integer"},"quote":{"type":"string"},
+    "paragraphs":{"type":"array","items":{"type":"string"}},"question":{"type":"string"}
+  }
+}

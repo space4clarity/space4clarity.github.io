@@ -1,0 +1,6 @@
+.automation/cache/
+.automation/runs/
+.automation/run.lock
+.automation/local.json
+__pycache__/
+*.pyc
