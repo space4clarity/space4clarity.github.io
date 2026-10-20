@@ -79,5 +79,32 @@
     "source_start": 166,
     "source_end": 170,
     "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
+  },
+  {
+    "title": "When Someone Makes Us Feel Like a Good Judge of Character",
+    "summary": "Elizabeth’s reassessment of Wickham reveals how easily the pleasure of being preferred can pass for evidence of another person’s goodness.",
+    "topic": "How feeling singled out can distort the judgment of someone who takes pride in being perceptive",
+    "passage_index": 0,
+    "quote": "She could see him instantly before her, in every charm of air and address, but she could remember no more substantial good than the general approbation of the neighbourhood, and the regard which his social powers had gained him in the mess.",
+    "paragraphs": [
+      "Elizabeth tries to remember something good Wickham has actually done, and discovers how little she has to work with. His face, voice, and manner remain wonderfully clear. Evidence of integrity does not. Reading Darcy’s account of him, she searches her memory for a generous action or an unmistakable instance of honesty. What comes back instead is his charm and the fact that other people like him. The uncomfortable gap is between how vividly she knows her impression and how little she knows its basis.",
+      "This is especially painful because Elizabeth values her own discernment. She has not thought of herself as someone easily taken in. Her suspicion of Darcy has even allowed her to feel more discriminating than her generous sister. Yet she now identifies a much less impressive explanation for her judgments: Wickham pleased her by showing a preference for her, while Darcy offended her through his neglect. Her intelligence supplied reasons for conclusions that her wounded and gratified vanity had already made attractive.",
+      "The passage does not suggest that Elizabeth noticed nothing. She remembers Wickham’s conversation in considerable detail. He claimed he would stand his ground around Darcy, then avoided the Netherfield ball. He professed reluctance to expose Darcy, then spread his story once Darcy’s circle had left. These inconsistencies were available to her before. What changes is her willingness to let them count against someone whose attention she enjoyed. Being observant, Austen suggests here, does not guarantee that observations receive a fair hearing.",
+      "A hypothetical workplace friendship might develop along similar lines. A new colleague quickly confides in you about a difficult manager and says you seem like the only person who understands. The confidence feels like recognition. Soon, a curt message from the manager looks like proof of cruelty, while the colleague’s missed commitment seems easy to excuse. Perhaps the manager really is difficult. The problem is that feeling trusted has quietly become part of the evidence, even though it tells you little about what happened.",
+      "That is what makes this kind of error hard to inspect from inside. You may be asking sharp questions, remembering exact phrases, and detecting real awkwardness. Each of those abilities can strengthen your confidence without testing your preferred account. Elizabeth’s scrutiny of Darcy did not protect her from partiality toward Wickham. In this reading, her mistake is not an absence of thought so much as an unequal distribution of it: one person receives suspicion, another receives explanations.",
+      "Her attempt to recall a substantial good offers a practical question for such a situation. What has this person done that supports the quality I have assigned them? Warmth can establish that someone is pleasant company. A confidence can establish that they chose to tell you something. Neither necessarily establishes fairness, reliability, or generosity. Keeping those distinctions available need not make a conversation cold. It can simply leave a little room between enjoying someone and deciding what their enjoyment of you proves.",
+      "Elizabeth’s reassessment also has limits worth noticing. She considers asking Colonel Fitzwilliam for confirmation, but does not; awkwardness and her confidence that Darcy would not risk being contradicted stop her. Some of her revised conclusions about Wickham’s motives are still inferences. The passage therefore gives us something messier than a clean exchange of falsehood for certainty. She has stronger reasons to doubt her earlier judgment, but the work of weighing testimony, conduct, and probability continues.",
+      "Nor does the discovery leave her pleasantly wiser. She feels ashamed, walks for two hours, and returns hoping to conceal her distress well enough for conversation. Revising an opinion can threaten the image of ourselves that made the opinion satisfying. Elizabeth must reconsider Wickham, but she must also reconsider the pleasure she took in being someone who could see through people. That second loss may explain why an ordinary change of mind can feel so strangely difficult, even when no one else knows it is happening."
+    ],
+    "question": "When someone makes you feel especially understood, which parts of their behavior become easier to explain away?",
+    "date": "2026-10-20",
+    "slug": "2026-10-20-when-someone-makes-us-feel-like-a-good-judge-of-character",
+    "book_id": 1342,
+    "book_title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "source_url": "https://www.gutenberg.org/ebooks/1342",
+    "source_start": 1414,
+    "source_end": 1424,
+    "source_sha256": "81300b79e8a8d65ac530a97578417d06137e3bbc90622a10a65e5036183d2500"
   }
 ]
