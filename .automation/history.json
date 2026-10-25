@@ -160,5 +160,32 @@
     "source_start": 4756,
     "source_end": 4772,
     "source_sha256": "23640c07fcad3eecf144073fab9f2452beb4735271becb179fdd2ac9f61eca75"
+  },
+  {
+    "title": "When a Beautiful Dinner Makes a Friend Less Likely to Return",
+    "summary": "Thoreau’s account of hospitality asks how an elaborate welcome can accidentally make an ordinary visit feel difficult to repeat.",
+    "topic": "How visible effort in hosting can make guests feel that their presence is costly",
+    "passage_index": 1,
+    "quote": "You need not rest your reputation on the dinners you give.",
+    "paragraphs": [
+      "At his cabin, Thoreau describes two very different arrangements for visitors. A single guest might share his modest meal while he stirred pudding or watched bread bake in the ashes. If twenty people arrived, however, dinner apparently dropped out of the conversation altogether. He presents this as an acceptable custom: company could gather without requiring the host to feed everyone. Then he turns to a more surprising complaint. An elaborate dinner at someone else’s house could discourage him from ever returning.",
+      "His objection is not simply that the meal takes too long or offers too much food. He experiences the host’s fuss as an indirect message that his visit has been troublesome. The passage does not establish that the host actually wants him to stay away. It tells us how the welcome reaches him. What one person intends as generosity, another receives as evidence of the cost of their presence.",
+      "That gap makes the scene more interesting than a straightforward argument for casual entertaining. The host might have enjoyed preparing every dish. The guest might have misread a pleasure as a sacrifice. Nevertheless, once hospitality becomes a conspicuous undertaking, the visitor has something new to calculate. A return visit could mean another afternoon of shopping, another expensive meal, another kitchen to restore afterward. The dinner may be delightful while making the next invitation harder to accept.",
+      "Imagine a friend inviting someone over on a Tuesday evening. Before the guest arrives, the host sends several messages about the menu, apologizes for an unfinished dessert, and mentions having spent the afternoon cleaning. None of this needs to be manipulative. It might be ordinary excitement or nervousness. But a guest could begin to feel that a brief visit has set a substantial operation in motion. Next time, suggesting a quick catch-up may seem less comfortable than leaving the friend alone.",
+      "Thoreau’s pudding offers a different picture of being together. Conversation continues while something necessary gets done. The guest enters an evening already in progress, rather than becoming the reason the household must transform itself. One possible reading is that this continuity makes company easier to welcome again. The person stirring the pot does not have to stop being someone who needs to make supper in order to become a host.",
+      "There is a limit to how far his example can carry us. Having no dinner for twenty people is easy for the narrator to describe as considerate, but he cannot establish everyone’s satisfaction merely by announcing his sympathy with anyone who left hungry. A guest might have skipped lunch, traveled a long way, or felt unable to mention needing food. Reducing ceremony does not automatically make a gathering attentive. Sometimes the practical work of feeding people is precisely what allows them to relax.",
+      "The useful distinction, then, may lie in whether the effort answers a guest’s needs or makes the guest conscious of the host’s performance. A substantial meal can feel easy to receive when someone quietly makes room at the table. A cup of tea can feel burdensome if it comes with repeated accounts of everything rearranged to provide it. The number of dishes tells us less than the atmosphere around them.",
+      "For someone deciding whether to invite a friend into an untidy kitchen, the hesitation may come from a sincere wish to offer something better. Yet postponing until there is time to do everything properly has its own effect: the visit never happens. Thoreau’s irritation leaves open an awkward possibility. The preparations meant to show how much another person matters can also make ordinary access to us feel expensive. A welcome has consequences beyond the evening itself; it helps establish whether coming back feels possible."
+    ],
+    "question": "What makes you feel that someone would welcome another ordinary visit, even before this one has ended?",
+    "date": "2026-10-25",
+    "slug": "2026-10-25-when-a-beautiful-dinner-makes-a-friend-less-likely-to-return",
+    "book_id": 205,
+    "book_title": "Walden",
+    "author": "Henry David Thoreau",
+    "source_url": "https://www.gutenberg.org/ebooks/205",
+    "source_start": 241,
+    "source_end": 249,
+    "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
   }
 ]
