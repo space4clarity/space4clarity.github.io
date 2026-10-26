@@ -187,5 +187,32 @@
     "source_start": 241,
     "source_end": 249,
     "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
+  },
+  {
+    "title": "When Not Asking Is a Form of Attention",
+    "summary": "Elizabeth’s aunt and uncle notice her changing relationship with Darcy without making her explain feelings she has barely begun to understand.",
+    "topic": "How noticing someone’s private uncertainty can call for restraint rather than immediate questions",
+    "passage_index": 1,
+    "quote": "They saw much to interest, but nothing to justify inquiry.",
+    "paragraphs": [
+      "Elizabeth leaves a visit with Darcy eager to escape her aunt and uncle’s possible questions. They have just witnessed something unexpected: Darcy has been remarkably attentive, extending an invitation to Pemberley and seeking their good opinion. Elizabeth knows there is plenty here to attract their curiosity. She hurries away to dress before they can turn their observations into a conversation she does not feel ready to have.",
+      "The Gardiners, however, have no intention of pressing her. They recognize that Elizabeth knows Darcy better than they had realized, and they take his conduct as evidence that he loves her. Austen gives them both perception and restraint. Their silence does not come from missing what happened. They notice enough to be interested, yet do not treat that interest as permission to question their niece.",
+      "That distinction matters because Elizabeth herself cannot give a settled account of her feelings. Later, she lies awake trying to understand them. She respects Darcy, feels grateful for his continued affection, and cares about his welfare. Whether she wants to renew the possibility of marriage remains unresolved. An immediate conversation with her relatives would therefore ask her to explain something still taking shape, perhaps before she has language accurate enough to describe it.",
+      "The passage suggests that privacy can protect this unfinished stage of thought. Elizabeth is not simply holding back a clear answer that her aunt might coax into the open. She is working toward an answer. If the Gardiners asked whether she hoped Darcy would propose again, even a gentle question could make her choose between positions that do not yet fit. She might deny too much out of embarrassment or agree too readily because their pleasure makes agreement feel inviting.",
+      "A similar difficulty could arise when a friend mentions meeting a former partner for coffee. Suppose they seem thoughtful afterward, neither distressed nor especially happy. Someone who cares about them might immediately ask whether they are getting back together. The question is understandable. But it also gives the meeting a destination before the person describing it has decided what it meant. They may then spend the conversation managing expectations instead of discovering their own response.",
+      "There is an ordinary social reward for asking: it shows that we noticed, remembered, and care enough to follow up. Holding back can feel oddly neglectful, especially among people accustomed to sharing everything. The Gardiners offer another possibility. They remain engaged with Elizabeth’s circumstances, accept the invitation, and form their own impressions of Darcy. Their involvement does not require her to supply a running account of her inner life.",
+      "Of course, silence is not automatically considerate. A person may want an opening and mistake everyone’s restraint for indifference. Austen does not give us a rule for deciding every case. What seems distinctive here is the Gardiners’ lack of insistence. They can be available without demanding disclosure. In a modern conversation, that might mean acknowledging that something seems significant while leaving the person free to return to it later, or to say very little.",
+      "The harder part may be accepting that closeness does not guarantee immediate access. A relative or friend can matter deeply to us and still need time in which our curiosity has no claim on them. Elizabeth’s evening remains uncertain after she leaves the room. Her aunt and uncle do not resolve that uncertainty, and their restraint does not make it comfortable. It simply leaves her enough room to experience it before she has to explain it."
+    ],
+    "question": "When someone close to you is still working out what they feel, what helps you recognize whether a question would offer company or create pressure?",
+    "date": "2026-10-26",
+    "slug": "2026-10-26-when-not-asking-is-a-form-of-attention",
+    "book_id": 1342,
+    "book_title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "source_url": "https://www.gutenberg.org/ebooks/1342",
+    "source_start": 1713,
+    "source_end": 1727,
+    "source_sha256": "81300b79e8a8d65ac530a97578417d06137e3bbc90622a10a65e5036183d2500"
   }
 ]
