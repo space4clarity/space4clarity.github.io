@@ -268,5 +268,32 @@
     "source_start": 3166,
     "source_end": 3192,
     "source_sha256": "23640c07fcad3eecf144073fab9f2452beb4735271becb179fdd2ac9f61eca75"
+  },
+  {
+    "title": "The Beans Grew. Did the Sincerity?",
+    "summary": "Thoreau can account for his bean harvest precisely, but the qualities he hoped to cultivate in himself prove harder to find.",
+    "topic": "How concrete accomplishments can become substitutes for the less measurable qualities we hoped to develop",
+    "passage_index": 1,
+    "quote": "Most men I do not meet at all, for they seem not to have time; they are busy about their beans.",
+    "paragraphs": [
+      "Thoreau knows exactly what his beans have yielded. In this passage, he lists the price of his hoe, the cost of seed, the expense of bringing the crop home, and the money earned from selling it. He offers practical advice about worms, woodchucks, and frost. Then he turns toward a different harvest: the sincerity, truth, faith, and innocence he had hoped to cultivate in himself. Several summers have passed, he admits, without those seeds coming up.",
+      "The admission interrupts what might otherwise become an easy lecture about other people’s misplaced priorities. Thoreau does criticize his neighbors for repeating familiar agricultural work while neglecting other possibilities. But he has already placed himself inside the difficulty. He can produce a financial account of the beans. He cannot produce equally convincing evidence that his intentions have changed him. He even questions whether what he planted deserved to be called the seeds of those virtues.",
+      "One way to read this turn is as a problem of substitution. An activity begins with a larger purpose, then gradually supplies its own definition of success. Growing beans offers tasks that can be completed and results that can be counted. Becoming more sincere offers neither a clear schedule nor a final receipt. The completed task can therefore start standing in for the purpose, even when the connection between them has grown thin.",
+      "Imagine someone who takes responsibility for organizing a neighborhood gathering because they want people to feel less isolated. They make a spreadsheet, compare venues, arrange food, and send reminders. All of this matters; without it, the gathering might never happen. But suppose a neighbor calls with a concern, and the organizer rushes through the conversation to finish the seating plan. The event is progressing. The capacity to give someone attention may be getting very little practice.",
+      "That is where Thoreau’s complaint about people being occupied with their beans becomes uncomfortable. He describes an absence of encounter: people pass through their work without becoming available to one another. In the hypothetical gathering, the problem would not be that planning is shallow or that listening automatically takes priority over every deadline. It would be that the organizer’s original purpose has become difficult to recognize in the way the work is being done.",
+      "There is a limit to Thoreau’s impatience, though. Crops require timely labor, and people need food. His own detailed advice makes that plain. Someone who must finish a shift or collect a child cannot always stop for an expansive conversation. The passage gives us grounds to question what busyness serves, but it does not establish that every hurried person has chosen badly. Any useful application has to leave room for obligations that cannot simply be dropped.",
+      "Perhaps the more revealing moment comes when a practical accomplishment is offered as proof of a personal quality. A carefully prepared apology might show effort while still avoiding the actual injury. A full calendar of family activities might coexist with very little patience at home. Neither effort is worthless. Yet sincerity and patience have to appear somewhere in the encounter itself. They cannot be established entirely by the preparation surrounding it.",
+      "Thoreau does not give a reliable method for growing his desired virtues. His failed planting leaves that uncertainty open. It suggests that an intention needs occasional contact with the situations that could test it: a correction we would rather dismiss, an interruption we resent, a person whose answer takes longer than expected. Those moments may yield no visible accomplishment. They may also expose how far the qualities we value remain from the habits we actually practice."
+    ],
+    "question": "Where might a task you complete successfully be standing in for a quality you still want to practice?",
+    "date": "2026-10-29",
+    "slug": "2026-10-29-the-beans-grew-did-the-sincerity",
+    "book_id": 205,
+    "book_title": "Walden",
+    "author": "Henry David Thoreau",
+    "source_url": "https://www.gutenberg.org/ebooks/205",
+    "source_start": 275,
+    "source_end": 285,
+    "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
   }
 ]
