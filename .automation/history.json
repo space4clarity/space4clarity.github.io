@@ -241,5 +241,32 @@
     "source_start": 277,
     "source_end": 291,
     "source_sha256": "06c37d2c52d208d3d81eb12c3b10b5edbd7728b73554325ddceadbe2fb427e77"
+  },
+  {
+    "title": "When Someone Protects You from a Conversation You Don’t Mind",
+    "summary": "A conversation about Dorothea’s future shows how easily concern can become an assumption about what someone else can bear.",
+    "topic": "How speaking on someone’s behalf can replace their actual preferences with an imagined need for protection",
+    "passage_index": 2,
+    "quote": "James spoke out of delicacy to me, but he was mistaken in supposing that I minded what Mrs. Cadwallader said.",
+    "paragraphs": [
+      "Dorothea’s widow’s cap comes off, and almost immediately her future becomes a subject for the room. Her sister Celia removes it because the evening is warm. The conversation moves from mourning clothes to remarriage, with several people offering opinions about what would be proper, desirable, or regrettable. A small adjustment for physical comfort opens into a discussion of how Dorothea ought to live.",
+      "Sir James eventually objects to the conversation and proposes changing the subject. His intervention might look considerate: people are discussing remarriage in front of a young widow, and he wants them to stop. But Dorothea refuses the protection. She says the subject does not trouble her. Later, speaking privately with Celia, she distinguishes his intention from his judgment. He meant to be delicate, but he had misunderstood her.",
+      "That distinction gives the scene its particular interest. Dorothea does not need to accuse James of cruelty or dismiss his concern to say that he is wrong. Someone can sincerely wish to spare another person discomfort and still misidentify the discomfort. Here, the conversation she resists is the one that treats her as a prospective match to be arranged. She does not object to the general subject of second marriage.",
+      "The passage then complicates James’s concern further. We learn that he privately finds the idea of Dorothea marrying again repulsive, although he knows the world would consider that feeling unreasonable. His wish to protect her therefore sits beside a preference of his own. The text does not say his intervention is a calculated attempt to control her. It does give us reason to wonder how neatly he can separate her supposed distress from his actual dislike.",
+      "A similar confusion could arise at an ordinary family dinner. Suppose someone who recently lost a job is present when another guest begins discussing recruitment. A relative quickly redirects the conversation, assuming the subject must hurt. Perhaps that is a relief. But perhaps the person wants to hear about an opening, ask a practical question, or simply participate without having unemployment treated as an unbearable wound. The same gesture can feel considerate or diminishing, depending on a preference the protector may never have checked.",
+      "There is a difficulty here that no simple rule removes. Asking publicly whether a subject is upsetting can itself make someone feel exposed. Waiting for an objection can leave them managing a conversation they wish someone else would interrupt. Dorothea happens to speak firmly for herself, but it would be unfair to require that confidence from everyone. Her response suggests a smaller adjustment: once someone corrects our account of their feelings, concern should be able to change direction.",
+      "Dorothea also has to explain herself more than once. Celia later asks whether she objected to James or Mrs. Cadwallader, as though someone must have offended her. Dorothea describes a more precise position: she understands James’s intention, tolerates the discussion, and rejects any obligation to accept a recommended husband. Those distinctions matter because other people’s categories are too broad to hold her wishes. Being defended and being understood turn out to be separate experiences.",
+      "By the end of the passage, James approves of Dorothea’s stated intention to remain unmarried. Yet his approval gives us another uncertainty. He welcomes a choice that agrees with his own feelings; we cannot tell from this scene how generously he would receive a different one. That leaves an uncomfortable test for ordinary concern. It is relatively easy to support someone when their wishes fit our picture of them. Their correction becomes harder to hear when it asks us to surrender a future we have quietly chosen on their behalf."
+    ],
+    "question": "When someone corrects your idea of what would upset them, how much room is there for their answer to change your response?",
+    "date": "2026-10-28",
+    "slug": "2026-10-28-when-someone-protects-you-from-a-conversation-you-don-t-mind",
+    "book_id": 145,
+    "book_title": "Middlemarch",
+    "author": "George Eliot",
+    "source_url": "https://www.gutenberg.org/ebooks/145",
+    "source_start": 3166,
+    "source_end": 3192,
+    "source_sha256": "23640c07fcad3eecf144073fab9f2452beb4735271becb179fdd2ac9f61eca75"
   }
 ]
