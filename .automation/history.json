@@ -349,5 +349,32 @@
     "source_start": 753,
     "source_end": 771,
     "source_sha256": "06c37d2c52d208d3d81eb12c3b10b5edbd7728b73554325ddceadbe2fb427e77"
+  },
+  {
+    "title": "When Every Answer Sounds Like Evidence Against You",
+    "summary": "Casaubon’s suspicion makes every response from Dorothea confirm his fears, leaving their relationship with little room for repair.",
+    "topic": "How suspicion becomes impossible to correct when every possible response is treated as confirmation",
+    "passage_index": 0,
+    "quote": "To his suspicious interpretation Dorothea’s silence now was a suppressed rebellion; a remark from her which he had not in any way anticipated was an assertion of conscious superiority; her gentle answers had an irritating cautiousness in them; and when she acquiesced it was a self-approved effort of forbearance.",
+    "paragraphs": [
+      "Dorothea has disappointed her husband by becoming someone who can criticize him. Casaubon remembers her earlier worship, and the change feels to him like betrayal. In this passage, tenderness cannot undo the impression left by disagreement. Silence, an unexpected remark, a gentle answer, even agreement: he finds an accusation inside each one. The difficulty is no longer simply that they have quarreled. It is that she has almost no available response he can receive without resentment.",
+      "The narrator carefully identifies these meanings as Casaubon’s interpretation. We are not told that Dorothea’s silence really conceals rebellion or that her gentleness expresses superiority. Those are the intentions he supplies. This distinction matters because his account has become so complete. Usually, an interpretation risks being unsettled by the next thing someone does. Here, the next thing has already been assigned a place in the argument against her.",
+      "Eliot also allows something uncomfortable into the picture: Casaubon has reasons to believe he is no longer adored without criticism. The narrator does not ask us to imagine that his fear is entirely groundless. Dorothea may indeed see shortcomings she once missed. But noticing that someone’s opinion has changed cannot establish what every subsequent gesture means. A real disappointment becomes the foundation for a much larger structure of imagined motives.",
+      "A smaller version could develop between two colleagues. Suppose one raises a concern about the other’s work during a meeting. Afterward, the person who felt criticized begins reading everything through that moment. A short message seems cold. A detailed explanation seems condescending. An offer to help seems like another attempt to demonstrate competence. Even an apology might be taken as a way of ending the conversation without admitting enough. The original concern may deserve discussion, but now ordinary communication keeps generating new offenses.",
+      "What would count as evidence that the colleague meant well? That question becomes difficult when both brevity and detail, distance and attention, can support the same conclusion. The person under suspicion may spend increasing effort adjusting a tone that never lands correctly. From Casaubon’s side, Dorothea’s caution is itself irritating. One possible reading is that his distrust helps produce the carefulness he then finds suspicious. The passage does not give us her thoughts here, but it shows how little room his interpretation leaves her.",
+      "There is a particular loneliness in wanting reassurance while making reassurance impossible to give. Casaubon would find comfort in a companion who never discovered his limitations. That wish asks more than affection can reliably supply. A person can remain attached while becoming less impressed, or disagree without preparing to leave. Yet if being loved requires being regarded as beyond criticism, any evidence of another person’s independent judgment threatens the relationship.",
+      "This does not mean that a worried person should accept every soothing explanation. People can be evasive, and a gentle manner does not settle whether a grievance is justified. The useful distinction may be between a concern that can be investigated and a conclusion that absorbs every answer. A missed deadline can be discussed in terms of what happened and what comes next. A settled belief that someone secretly despises us is harder to address when their denial becomes further proof of concealment.",
+      "Casaubon’s suffering remains real even as his interpretations become unfair. That is part of the passage’s difficulty: feeling wounded does not necessarily make someone a reliable reader of the person nearby. Repair would require more than Dorothea finding the perfect answer. It would require some willingness on his side to let an answer change what he believes. The passage leaves us with the discomfort of seeing how badly someone can want relief while distrusting every route by which it might arrive."
+    ],
+    "question": "When someone’s every response seems to confirm a fear, what could still count as evidence that the fear needs revising?",
+    "date": "2026-11-01",
+    "slug": "2026-11-01-when-every-answer-sounds-like-evidence-against-you",
+    "book_id": 145,
+    "book_title": "Middlemarch",
+    "author": "George Eliot",
+    "source_url": "https://www.gutenberg.org/ebooks/145",
+    "source_start": 2465,
+    "source_end": 2469,
+    "source_sha256": "23640c07fcad3eecf144073fab9f2452beb4735271becb179fdd2ac9f61eca75"
   }
 ]
