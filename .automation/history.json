@@ -403,5 +403,32 @@
     "source_start": 391,
     "source_end": 395,
     "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
+  },
+  {
+    "title": "When Being in on the Joke Becomes Uncomfortable",
+    "summary": "Elizabeth’s affection for her father complicates her recognition that his amusement comes at her mother’s expense.",
+    "topic": "How enjoying someone’s affection and wit can make it harder to challenge their contempt for another person",
+    "passage_index": 1,
+    "quote": "To his wife he was very little otherwise indebted than as her ignorance and folly had contributed to his amusement.",
+    "paragraphs": [
+      "Mr. Bennet has made a source of entertainment out of a marriage that disappoints him. The passage describes affection, respect, and confidence as having disappeared, leaving books, country life, and amusement at his wife’s expense. Elizabeth loves her father and respects his intelligence. She also recognizes something painful in his behavior: by treating their mother with contempt, he makes that contempt available to the children. His private disappointment has become part of the family’s shared atmosphere.",
+      "Elizabeth is not discovering this problem for the first time. The narrator explicitly says she has long seen her father’s conduct with pain. Yet gratitude for his affection has helped her push aside what she cannot entirely dismiss. That is the difficult arrangement here. Someone can treat us lovingly while treating another person poorly, and our experience of their kindness can make the second fact harder to keep in view.",
+      "The passage gives Mrs. Bennet no flattering rescue. Its account of her limitations is severe. Elizabeth’s objection therefore does not depend on deciding that her mother is secretly wise or that her father’s disappointment is imaginary. The issue is what he does with that disappointment. The narration presents his talents as badly directed: abilities that might have helped his daughters instead furnish him with entertainment. Being able to identify someone’s faults does not settle how to live alongside them.",
+      "Humor makes this especially complicated because it offers other people an enjoyable role. Imagine a family dinner where one parent turns the other’s repeated story into a familiar joke. An adult child might laugh because the interruption is quick and clever, because the story really has been told many times, or because laughing feels like closeness with the parent making the joke. None of those reasons requires a deliberate wish to humiliate anyone. Still, the laughter gives the scene an audience.",
+      "What might make the moment uncomfortable is realizing that the invitation to share amusement also asks for agreement about someone’s place in the room. One person gets to comment; another becomes the material. This is an interpretation of the family pattern Austen describes, rather than a claim that every joke carries the same weight. Affectionate teasing can be mutual. Here, however, the narrator specifically identifies the children’s contempt as a consequence of their father’s conduct. The pleasure has a direction and a cost.",
+      "For the favored listener, objecting can feel strangely disloyal. Suppose a colleague is generous with advice and consistently supports your work, but regularly makes another coworker sound ridiculous. Challenging a remark might seem ungrateful, as though their kindness to you has created a debt of agreement. Elizabeth’s divided response helps make that feeling legible. Her father’s affection matters to her. It also appears to make sustained attention to his behavior more difficult. Gratitude can explain that difficulty without resolving it.",
+      "There may be no graceful sentence that repairs such a pattern. A listener could decline to add another joke, let the person finish speaking, or privately name what has become uncomfortable. Each response might produce awkwardness; none guarantees a change. The person being mocked might also dislike being defended in front of everyone. Those complications matter because the problem is a relationship with habits and loyalties, not simply a mistaken statement waiting for correction.",
+      "What stays unsettling in Elizabeth’s situation is how much she already understands. She does not need sharper intelligence to notice her father’s behavior. She needs to face something that her love for him gives her reasons to set aside. The passage leaves room for both the affection and the failure, without allowing the affection to cancel the failure. A warm relationship with one person can coexist with an uncomfortable question about what our place beside them helps sustain."
+    ],
+    "question": "When someone’s humor makes you feel close to them, how do you notice whether that closeness depends on someone else being diminished?",
+    "date": "2026-11-03",
+    "slug": "2026-11-03-when-being-in-on-the-joke-becomes-uncomfortable",
+    "book_id": 1342,
+    "book_title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "source_url": "https://www.gutenberg.org/ebooks/1342",
+    "source_start": 1583,
+    "source_end": 1601,
+    "source_sha256": "81300b79e8a8d65ac530a97578417d06137e3bbc90622a10a65e5036183d2500"
   }
 ]
