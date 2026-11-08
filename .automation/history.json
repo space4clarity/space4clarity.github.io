@@ -538,5 +538,31 @@
     "source_start": 966,
     "source_end": 986,
     "source_sha256": "81300b79e8a8d65ac530a97578417d06137e3bbc90622a10a65e5036183d2500"
+  },
+  {
+    "title": "Being Innocent Is Not the Same as Being Safe",
+    "summary": "Victor’s confidence in Justine’s innocence becomes a reason to underestimate the danger she faces.",
+    "topic": "How knowing an accusation is false can make us underestimate the work needed to challenge it",
+    "passage_index": 0,
+    "quote": "I had no fear, therefore, that any circumstantial evidence could be brought forward strong enough to convict her.",
+    "paragraphs": [
+      "Victor returns to his father’s house after William’s murder convinced that he knows who committed it. He has seen the being he created near the scene, and he believes that encounter explains the death. But the account he would have to give sounds incredible even to him. He imagines being disbelieved, considers pursuit impossible, and decides to remain silent. Then his brother tells him that someone else has been accused: Justine Moritz, a young woman the family knows and has loved.",
+      "The evidence against her has already begun to harden into a convincing story. A picture associated with the murder has been found in her pocket. Her confusion when accused has increased suspicion. Ernest describes the family’s movement from disbelief toward acceptance, while Victor’s father speaks as though Justine’s guilt has revealed a terrible defect in her character. Whatever Victor knows privately, the people around him are reaching a different conclusion through evidence they consider persuasive.",
+      "Yet his father’s hope that Justine will be acquitted calms Victor. The reasoning is startling: because he is certain she is innocent, he cannot imagine circumstantial evidence strong enough to convict her. His certainty concerns what happened; his reassurance concerns what a court will decide. The passage puts those two things next to each other without supplying the connection between them. One way to read this moment is that Victor mistakes the strength of his knowledge for protection that Justine actually possesses.",
+      "That mistake becomes especially uncomfortable when Elizabeth welcomes him. She hopes he can find a way to establish Justine’s innocence. Victor assures her that it will be proved, although he has just rehearsed his reasons for withholding the extraordinary account on which his conviction rests. Elizabeth receives his confidence as kindness and generosity. He has offered something emotionally valuable: relief from the fear that everyone believes the accusation. But reassurance is doing work here that evidence and action still need to do.",
+      "A much smaller version could happen in a workplace. Suppose an employee is blamed for deleting a shared folder. A colleague knows the employee lacked access that afternoon and feels certain the accusation will collapse. When asked whether to worry, the colleague confidently predicts that the access records will clear everything up. But nobody has requested those records, the manager has already heard a persuasive account, and a performance review is approaching. The colleague’s confidence may be sincere while leaving the accused person dangerously exposed.",
+      "There is a particular temptation in believing that a false accusation must contain its own undoing. We can imagine that someone will notice the inconsistency, ask the obvious question, or check the relevant record. Those expectations spare us an awkward conversation. In Victor’s case, the awkwardness is extreme: his explanation would implicate his own secret work and could sound impossible. The text explicitly gives his fear of disbelief. It also lets us notice how conveniently his faith in acquittal allows that fear to remain untested.",
+      "This does not mean that speaking would necessarily settle the matter. The passage gives real reasons to doubt whether Victor would be believed, and his confidence about the murderer is not evidence the reader has independently witnessed here. The narrower problem is his promise of an outcome he has done little to secure. When another person is under suspicion, being sure of their innocence can be a starting point for asking what would help them. It can also become a comfortable place to stop, while they continue facing people who are equally sure of their guilt."
+    ],
+    "question": "When you feel certain an accusation will fall apart, what makes you expect the truth to become visible to everyone else?",
+    "date": "2026-11-08",
+    "slug": "2026-11-08-being-innocent-is-not-the-same-as-being-safe",
+    "book_id": 84,
+    "book_title": "Frankenstein",
+    "author": "Mary Shelley",
+    "source_url": "https://www.gutenberg.org/ebooks/84",
+    "source_start": 232,
+    "source_end": 250,
+    "source_sha256": "06c37d2c52d208d3d81eb12c3b10b5edbd7728b73554325ddceadbe2fb427e77"
   }
 ]
