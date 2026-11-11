@@ -618,5 +618,32 @@
     "source_start": 206,
     "source_end": 214,
     "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
+  },
+  {
+    "title": "Darcy Explains His Struggle. Elizabeth Hears an Insult.",
+    "summary": "Darcy’s proposal exposes the distance between explaining what an offer cost us and making another person feel wanted.",
+    "topic": "How describing the obstacles we overcame to choose someone can make an offer feel insulting rather than generous",
+    "passage_index": 2,
+    "quote": "He spoke well; but there were feelings besides those of the heart to be detailed, and he was not more eloquent on the subject of tenderness than of pride.",
+    "paragraphs": [
+      "Darcy arrives to propose while Elizabeth is already angry with him. She has been rereading Jane’s letters, finding signs of her sister’s unhappiness, and connecting that unhappiness to his interference. He enters a room whose emotional atmosphere he does not understand. What he intends as a declaration of love reaches someone who has been gathering reasons to resent him.",
+      "Yet the proposal does more than suffer from unfortunate timing. Darcy explains how strongly he loves Elizabeth by describing everything that made him resist loving her. He dwells on her supposed inferiority and the obstacles presented by her family. In his account, the force of his attachment becomes visible through the strength of his objections. The harder she was to choose, the greater his love must be.",
+      "That may explain his feelings, but it gives Elizabeth a painful role in the explanation. She must listen to herself being described as a disadvantage he has struggled to accept. The narrator explicitly places pride alongside tenderness in his speech. One way to read the scene is that Darcy mistakes the difficulty of his own decision for something Elizabeth should experience as a compliment.",
+      "Austen makes the damage visible as it happens. Elizabeth initially feels some compassion for the disappointment she will cause him, even though she has no intention of accepting. His subsequent language turns that compassion into anger. This is not simply a case of someone refusing to appreciate an awkward declaration. His account of choosing her changes what being chosen by him would mean.",
+      "A smaller version could happen in a workplace. Imagine a manager offering someone a desirable assignment, then explaining at length that their background was unconventional, their earlier work raised doubts, and several colleagues seemed safer choices. The manager might intend to communicate the seriousness of the decision. The employee might leave wondering whether every mistake will revive an argument against their presence. An opportunity has arrived carrying a detailed inventory of reservations.",
+      "There are reasons to discuss reservations honestly. Someone taking on a difficult assignment may need to know where support or further experience will be necessary. The distinction lies partly in whether the information helps them participate or asks them to admire the chooser’s struggle. A conversation about resources gives the recipient something to use. A recital of how difficult they were to select can leave them responsible for making the decision feel worthwhile.",
+      "Darcy’s confidence sharpens this problem. The passage says that although he speaks of anxiety, Elizabeth can see that he expects acceptance. His internal struggle has apparently settled the central question for him. But Elizabeth has a separate question to answer: whether she wants the relationship he is offering. The effort behind an offer cannot supply the recipient’s desire for it.",
+      "That gap can remain uncomfortable even when affection is sincere. A hypothetical friend might explain that they rearranged a difficult week to attend a birthday dinner. Sharing that difficulty could be ordinary honesty, or it could make the host feel like a burden whose invitation now requires compensation. No phrasing guarantees that an explanation will land well. Darcy’s proposal suggests a question worth keeping open: when describing the cost of choosing someone, how much room remains for their experience of being chosen?"
+    ],
+    "question": "When does explaining what an offer cost you help someone understand it, and when does it make acceptance feel like a debt?",
+    "date": "2026-11-11",
+    "slug": "2026-11-11-darcy-explains-his-struggle-elizabeth-hears-an-insult",
+    "book_id": 1342,
+    "book_title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "source_url": "https://www.gutenberg.org/ebooks/1342",
+    "source_start": 1362,
+    "source_end": 1380,
+    "source_sha256": "81300b79e8a8d65ac530a97578417d06137e3bbc90622a10a65e5036183d2500"
   }
 ]
