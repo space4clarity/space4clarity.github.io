@@ -645,5 +645,32 @@
     "source_start": 1362,
     "source_end": 1380,
     "source_sha256": "81300b79e8a8d65ac530a97578417d06137e3bbc90622a10a65e5036183d2500"
+  },
+  {
+    "title": "When Good Advice Comes from Someone You Dislike",
+    "summary": "Victor’s first university encounter raises an awkward question: what happens to useful correction when we cannot stand the person delivering it?",
+    "topic": "How dislike of a teacher can make sound correction harder to separate from personal humiliation",
+    "passage_index": 0,
+    "quote": "I returned home not disappointed, for I have said that I had long considered those authors useless whom the professor reprobated; but I returned not at all the more inclined to recur to these studies in any shape.",
+    "paragraphs": [
+      "Victor arrives at university carrying an education that needs correcting. His early studies have followed the dreams of old alchemists, and Professor Krempe responds with open contempt. He dismisses Victor’s books, mocks the isolation that allowed him to take them seriously, and tells him to begin again. Then he supplies a reading list and information about lectures. Practical help and humiliation arrive in the same conversation.",
+      "The revealing detail is that Victor already doubts the authors Krempe attacks. He does not leave devastated by the collapse of a cherished intellectual position. According to his own account, he had reached a similar judgment before arriving. Yet the encounter makes him less willing to pursue the subject. Agreement about the books does not produce an appetite for better ones. Something about being corrected by this particular person gets between the correction and what Victor might do with it.",
+      "Victor’s account quickly turns toward Krempe’s appearance and manner: his stature, voice, and face. These details tell us little about the reading list. They tell us a great deal about Victor’s aversion. One possible reading is that he makes the professor’s unpleasantness carry the burden of explaining his own resistance. Still, Krempe has given him reason to recoil. Asking how anyone could have remained so ignorant makes a gap in someone’s education feel like a defect in the person.",
+      "Imagine starting a job and showing an experienced colleague a spreadsheet you have carefully built. The colleague spots a genuine problem: a formula leaves out an entire category of expenses. But instead of explaining the omission, they express disbelief that anyone would set it up this way. You may understand the error immediately and still spend the next hour rehearsing their tone. Opening the spreadsheet again now means returning to an embarrassing encounter as well as fixing a calculation.",
+      "That reaction can be inconvenient without being mysterious. Learning often requires admitting that previous effort did not accomplish what we thought it did. A contemptuous response adds another possible loss: standing in the eyes of someone whose judgment matters. Attention shifts toward defending the work, avoiding the colleague, or finding evidence that they are overrated. The formula remains wrong throughout. Their behavior has made correction harder to use, but it has not made the correction disappear.",
+      "Shelley complicates the encounter further by giving Victor reasons for resisting modern science that extend beyond Krempe. He wants grandeur, power, and extraordinary possibilities; the purposes of modern inquiry seem small to him. His dislike of the professor therefore meets an existing reluctance. That feels recognizable too. An irritating messenger can become a convenient reason to postpone something we were already unwilling to face. We may be right about the irritation and less candid about the postponement.",
+      "Later in the passage, Victor attends Waldman’s lecture. He notices benevolence in the professor’s expression and sweetness in his voice. Waldman begins with the history and achievements of chemistry, then explains elementary terms and performs experiments. The excerpt does not establish what Victor will ultimately learn from him, but it shows his willingness to enter the room and listen. His response suggests that the way knowledge is offered can affect whether he approaches it at all.",
+      "There is no tidy division here between a vain student and a bad teacher. Krempe offers concrete assistance while making it unpleasant to receive. Victor recognizes weaknesses in his education while allowing personal aversion to influence his interest in repairing them. In an ordinary disagreement, those two facts can remain true together. Someone may owe us a more respectful explanation, while the reading list, corrected formula, or unfamiliar method still deserves a closer look. The difficult moment comes when taking that look feels like granting the person more than they deserve."
+    ],
+    "question": "When someone delivers a useful correction badly, what would help you examine it without feeling that you have excused their behavior?",
+    "date": "2026-11-12",
+    "slug": "2026-11-12-when-good-advice-comes-from-someone-you-dislike",
+    "book_id": 84,
+    "book_title": "Frankenstein",
+    "author": "Mary Shelley",
+    "source_url": "https://www.gutenberg.org/ebooks/84",
+    "source_start": 115,
+    "source_end": 125,
+    "source_sha256": "06c37d2c52d208d3d81eb12c3b10b5edbd7728b73554325ddceadbe2fb427e77"
   }
 ]
