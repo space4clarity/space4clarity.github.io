@@ -699,5 +699,32 @@
     "source_start": 4201,
     "source_end": 4221,
     "source_sha256": "23640c07fcad3eecf144073fab9f2452beb4735271becb179fdd2ac9f61eca75"
+  },
+  {
+    "title": "The Book You Keep Giving Your Last Ten Minutes",
+    "summary": "Thoreau’s demanding account of reading raises a practical question: how much of our difficulty belongs to the book, and how much to the hour we give it?",
+    "topic": "How giving difficult reading only our most exhausted hours can distort our judgment of what we are capable of understanding",
+    "passage_index": 2,
+    "quote": "Most men have learned to read to serve a paltry convenience, as they have learned to cipher in order to keep accounts and not be cheated in trade;",
+    "paragraphs": [
+      "Thoreau opens this passage by making reading sound like something even literate people have barely begun to do. He distinguishes the ability to use written information from the effort of meeting a demanding work of literature. His examples grow deliberately abrasive: repetitive romances, educated people unfamiliar with good books, professors who understand an ancient language without fully responding to its poetry. Beneath the scolding sits a practical detail. The reading he values needs our most alert hours.",
+      "That detail changes the shape of his complaint. He asks readers to stretch, but he also specifies the condition in which that stretching might happen. Being able to recognize every word does not mean that a tired mind can follow every turn of thought. In his account, serious reading requires wakefulness as well as literacy. One possible implication is that an unsuccessful encounter with a book tells us something about the circumstances of the encounter, alongside whatever it tells us about the reader.",
+      "Imagine someone who wants to read a difficult novel and keeps it beside the bed. Every evening, after work, dishes, messages, and preparations for tomorrow, they open it. A page introduces several names. The next moves into a memory. They return to the previous page, lose their place, and fall asleep. After a week, they decide they have become someone who cannot concentrate on books. The conclusion feels supported by repeated evidence, although every attempt has taken place under nearly identical conditions.",
+      "The awkward part is that those conditions may be the only ones available. Morning might belong to getting children ready. Lunch might happen beside a ringing phone. Reading at bedtime can represent a real effort to preserve something valued. Thoreau does not examine those constraints here, and his impatience with other readers can sound ungenerous. Still, there is a useful distinction between having little attention left to offer and having little capacity for attention. A crowded day can make the two feel indistinguishable.",
+      "There is also a revealing question about allocation. Suppose that same hypothetical reader reserves a clear Saturday morning for comparing phone plans, while leaving the novel for the moment their eyes begin to close. The phone plans have a deadline and a visible financial consequence. The novel has neither. Giving practical tasks the clearest hours can be sensible, yet the pattern leaves anything without an immediate penalty dependent on whatever energy survives. Its difficulty then becomes another reason to postpone it.",
+      "Thoreau’s passage allows a small experiment: give a difficult page one reasonably wakeful interval and see what changes. Perhaps the sentences become more intelligible. Perhaps they remain obscure, but the reader can finally identify the point where the thread breaks. That is a different experience from drifting through the same paragraph in exhaustion. It offers a more precise basis for deciding whether to continue, seek help, or choose another book.",
+      "Nothing in that experiment guarantees affection for the work. Thoreau makes sweeping claims about the best literature, but a reader need not adopt his rankings to take his observation about attention seriously. An alert encounter may reveal that a celebrated book holds little interest for this particular person. It may also reveal pleasures that fatigue had concealed: a joke, an unexpected comparison, the pressure behind an apparently simple exchange. Either result gives the decision to stop or continue more substance.",
+      "The demand for wakeful reading can itself become another burden if it requires finding a perfect, interruption-free hour. A modest change may be enough to make the question worth reopening. Before accepting a verdict about being unable to read something difficult, there may be room to ask what kind of opportunity the book has actually received. The answer could expose a choice, a constraint, or some uncomfortable mixture of both."
+    ],
+    "question": "Is there something you have judged yourself unable to understand that you have only approached when your attention was already spent?",
+    "date": "2026-11-14",
+    "slug": "2026-11-14-the-book-you-keep-giving-your-last-ten-minutes",
+    "book_id": 205,
+    "book_title": "Walden",
+    "author": "Henry David Thoreau",
+    "source_url": "https://www.gutenberg.org/ebooks/205",
+    "source_start": 182,
+    "source_end": 186,
+    "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
   }
 ]
