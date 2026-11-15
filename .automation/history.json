@@ -726,5 +726,32 @@
     "source_start": 182,
     "source_end": 186,
     "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
+  },
+  {
+    "title": "The Visit Elizabeth Wishes Would Never Happen Again",
+    "summary": "An excruciating visit leads Elizabeth to reject the very company she wants, revealing how embarrassment can make decisions for an imagined future.",
+    "topic": "How acute embarrassment can make avoiding a repeat feel more important than anything a relationship might offer",
+    "passage_index": 1,
+    "quote": "Yet the misery, for which years of happiness were to offer no compensation, received soon afterwards material relief, from observing how much the beauty of her sister rekindled the admiration of her former lover.",
+    "paragraphs": [
+      "Elizabeth wants Darcy to speak to her, but by the end of his visit she wishes she would never see him again. The change does not follow a quarrel between them. Instead, she has endured her mother welcoming Bingley with conspicuous enthusiasm while treating Darcy coldly. Elizabeth knows something her mother does not: Darcy has helped save Lydia from disgrace. Every misplaced courtesy makes sitting in the room harder.",
+      "The visit is painful partly because Elizabeth cannot control how anyone else behaves. Her mother brings up Lydia’s marriage, complains about its newspaper announcement, and makes a pointed remark about Wickham’s friends. Elizabeth understands that remark as an attack on Darcy. She can neither prevent it nor comfortably explain why it is unjust. When she finally speaks, she redirects the conversation by asking Bingley about his plans. It is a small action in a room she desperately wants to manage.",
+      "Her distress then becomes a prediction. She imagines that even years of happiness could not compensate for moments like these, and inwardly wishes both men would stay away forever. Austen gives that judgment very little time to settle. Soon afterward, Elizabeth notices Bingley’s growing attention to Jane, and her misery substantially eases. The embarrassing remarks have not been withdrawn. What changes is that something she cares about becomes visible again.",
+      "That sequence suggests a particular difficulty with embarrassment: it can briefly make preventing another episode seem like the only sensible aim. Elizabeth has reasons to find the visit mortifying. The passage does not require us to dismiss her discomfort as foolish. But her wish for permanent avoidance reaches far beyond what the room can tell her. While she is suffering, she treats the feeling as if it already contains a reliable account of every future meeting.",
+      "A similar leap could happen after a hypothetical dinner where a parent makes an intrusive comment in front of a new partner. On the way home, the embarrassed person might decide that bringing those two parts of life together was a mistake. Separate visits begin to seem essential. Perhaps some separation would help. But it is also possible that the decision is being made at the moment when the imagined cost of another awkward dinner is enormous, while the ordinary pleasures of knowing one another are difficult to picture.",
+      "There is a practical distinction between wanting an evening to end and wanting a relationship never to enter that setting again. The first wish answers the immediate experience. The second arranges future life around it. They can feel identical while someone is replaying a remark, wondering what a guest thought, or wishing they had interrupted sooner. Even a perfectly accurate memory of the awkwardness cannot establish that every later gathering will feel the same.",
+      "Austen also leaves something uncomfortable in Elizabeth’s relief. Bingley’s admiration for Jane gives her a reason to tolerate the company she had just rejected. That does not resolve her mother’s behaviour or Darcy’s silence. Nor does it prove that another visit will go well. It simply reveals how much her sweeping verdict depended on which part of the room held her attention. Her hopes were still there, although shame had briefly made them seem worthless.",
+      "The passage offers no tidy cure for having relatives who say painful things in company. Its smaller interest lies in the speed with which an unbearable present can claim authority over the future. Elizabeth’s renewed interest in Bingley and Jane interrupts that claim. In an ordinary dilemma, the interruption might be less dramatic: a pleasant message afterward, a guest who seemed untroubled, or simply enough time for the evening to become one event rather than the prospect of life from now on."
+    ],
+    "question": "When an encounter makes you want to avoid someone altogether, what might help you distinguish a lasting preference from the wish never to feel that embarrassed again?",
+    "date": "2026-11-15",
+    "slug": "2026-11-15-the-visit-elizabeth-wishes-would-never-happen-again",
+    "book_id": 1342,
+    "book_title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "source_url": "https://www.gutenberg.org/ebooks/1342",
+    "source_start": 2120,
+    "source_end": 2144,
+    "source_sha256": "81300b79e8a8d65ac530a97578417d06137e3bbc90622a10a65e5036183d2500"
   }
 ]
