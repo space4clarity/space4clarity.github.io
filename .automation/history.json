@@ -753,5 +753,32 @@
     "source_start": 2120,
     "source_end": 2144,
     "source_sha256": "81300b79e8a8d65ac530a97578417d06137e3bbc90622a10a65e5036183d2500"
+  },
+  {
+    "title": "The Purpose That Calms Victor Is Revenge",
+    "summary": "Victor finds relief when he settles on revenge, raising a difficult question about whether a clearer purpose deserves our trust.",
+    "topic": "How the relief of having a definite purpose can make a destructive decision feel trustworthy",
+    "passage_index": 1,
+    "quote": "I had formed in my own heart a resolution to pursue my destroyer to death, and this purpose quieted my agony and for an interval reconciled me to life.",
+    "paragraphs": [
+      "When Victor Frankenstein approaches a magistrate after the murder of Elizabeth and the death of his father, he can finally give an orderly account. He supplies dates, speaks precisely, and avoids outbursts. The change is striking because the preceding pages show him collapsing, struggling to row a boat, and moving through grief without a distinct train of thought. What steadies him is a private decision to pursue the creature to death.",
+      "There is a legitimate reason for Victor to seek help. Elizabeth has been murdered, and he believes he knows her killer. Reporting that crime is intelligible on its own terms. But the passage also lets us see something the magistrate cannot necessarily see: beneath Victor’s composed request for an arrest lies a settled intention of revenge. His outward control does not tell us everything about the purpose organizing it.",
+      "Victor explicitly says that this purpose quiets his agony and briefly reconciles him to life. That is a narrower claim than saying it makes him wise, fair, or safe. One way to read the moment is that revenge gives suffering a direction. Instead of facing losses he cannot repair, he has someone to pursue and an outcome to imagine. The relief is real even if the chosen destination remains troubling.",
+      "An ordinary disagreement can contain a much smaller version of this problem. Suppose someone discovers that a colleague has taken credit for their work. For several days, they cannot decide whether to raise it privately, document it, or speak to a manager. Then they settle on a plan to embarrass the colleague at the next team meeting. Suddenly they can concentrate again. They prepare a timeline, locate the relevant emails, and feel more capable than they have all week.",
+      "That improvement in concentration might seem to confirm the decision. The person has stopped circling the same uncertainty and begun doing something concrete. Yet the evidence they gather could support several responses, including a direct request to correct the record. Their new calm establishes that deciding has helped them function. It does not establish that public humiliation is the response they actually want to stand behind.",
+      "This is what makes Victor’s precision unsettling. We often have good reasons to welcome a calmer account: it can make facts easier to understand and give others room to respond. Shelley’s passage does not make composure worthless. It does, however, place composure beside an avowed intention to kill. The two coexist. A person can become better at explaining a situation while becoming more fixed on a destructive answer to it.",
+      "There is no need to pretend that remaining undecided would be kinder to Victor. His uncertainty has been agonizing, and his losses cannot be resolved through patient consideration. The harder possibility is that a purpose may provide necessary relief while also narrowing what its holder can imagine. Once pursuing the creature becomes the thing that makes life bearable, reconsidering the pursuit could feel like surrendering the only support left.",
+      "In the hypothetical workplace dispute, a useful pause might come after the documents are gathered but before the meeting begins. The person could ask what those documents should accomplish: restore credit, establish a boundary, or cause embarrassment. The same preparation might serve any of those ends. Victor’s account leaves us with that uncomfortable separation between feeling able to proceed and having examined where we are going. Sometimes the moment of greatest certainty is also the moment when a decision becomes hardest to question."
+    ],
+    "question": "When a decision finally brings relief, what would help you examine its purpose without dismissing the relief itself?",
+    "date": "2026-11-16",
+    "slug": "2026-11-16-the-purpose-that-calms-victor-is-revenge",
+    "book_id": 84,
+    "book_title": "Frankenstein",
+    "author": "Mary Shelley",
+    "source_url": "https://www.gutenberg.org/ebooks/84",
+    "source_start": 693,
+    "source_end": 705,
+    "source_sha256": "06c37d2c52d208d3d81eb12c3b10b5edbd7728b73554325ddceadbe2fb427e77"
   }
 ]
