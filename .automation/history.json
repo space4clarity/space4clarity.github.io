@@ -805,5 +805,30 @@
     "source_start": 1246,
     "source_end": 1262,
     "source_sha256": "23640c07fcad3eecf144073fab9f2452beb4735271becb179fdd2ac9f61eca75"
+  },
+  {
+    "title": "What the Fire Left at Breed’s Hut",
+    "summary": "After a fire in Walden, a man searching for a piece of his father’s well-sweep changes what Thoreau sees in the ruins.",
+    "topic": "How someone’s attachment can change what we notice in a place we thought had lost its value",
+    "passage_index": 2,
+    "quote": "The house being gone, he looked at what there was left.",
+    "paragraphs": [
+      "When the fire bells ring in Walden, Thoreau rushes out with a crowd of men and boys. People call out guesses about what is burning, and the engines follow behind. The fire turns out to be closer than they thought. It has caught an empty hut once occupied by the Breed family, a building about the size of Thoreau’s own. By the time the crowd arrives, the hut is far gone. They decide it is worth so little that they might as well let it burn. There is some talk about other fires, and then Thoreau goes home to his book.",
+      "The following night, he passes the spot again and hears a low moan. A member of the Breed family has come after a day working in the river meadows. He lies down to look over the cellar wall, then moves to another spot and lies down again. This was his childhood home. He shows Thoreau where the covered well is and feels around in the dark for part of the well-sweep his father made. He wants Thoreau to feel the iron fitting where a weight had been attached.",
+      "The detail that stays with me in this scene is how particular the man is. He wants to show where the weight hung. Thoreau has already described the cellar as a heap of bricks and ashes, and the man’s search briefly looks to him like a hunt for buried treasure. Yet the man knows roughly where to put his hand. The fitting gives him something specific to show another person about his father’s work. Thoreau says he still takes notice of it on his walks.",
+      "Suppose an old apartment building is about to be torn down, and two siblings go by for a last look. They agree that the stairs were too steep and the upstairs hallway was always cold. Then one of them stops at the entrance and points to a deep scratch on the inside of the door. Their mother made it getting a secondhand kitchen table upstairs. One sibling remembers the table mainly as the thing they had to squeeze past to get to the fridge. The other remembers their mother coming home with it after weeks of eating off plates set on their laps.",
+      "It would be easy to answer with a warm remark about how much the building meant to the family. The scratch gives the conversation somewhere more particular to go. How did she get the table through the door? Did she have someone helping her? The sibling who stopped might remember that their mother took the legs off on the sidewalk. Or that might be the part neither of them can quite recover. Either way, there is now a specific piece of their shared life to be curious about.",
+      "Thoreau gives no account of what the man does after that evening. The story follows the person who was shown the fitting. He had already been to the fire and gone home with an opinion of the place. Now an ordinary walk keeps taking him past a piece of work he can recognize by touch. The building is still gone, and the account leaves the man’s loss with him. It also leaves Thoreau with a reason to look down at the wall where he once saw little worth stopping for."
+    ],
+    "question": "When someone points out a small detail in a place they’re losing, what might you learn by asking them to show you exactly where to look?",
+    "date": "2026-11-18",
+    "slug": "2026-11-18-what-the-fire-left-at-breed-s-hut",
+    "book_id": 205,
+    "book_title": "Walden",
+    "author": "Henry David Thoreau",
+    "source_url": "https://www.gutenberg.org/ebooks/205",
+    "source_start": 413,
+    "source_end": 419,
+    "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
   }
 ]
