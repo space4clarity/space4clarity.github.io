@@ -906,5 +906,30 @@
     "source_start": 2930,
     "source_end": 2954,
     "source_sha256": "23640c07fcad3eecf144073fab9f2452beb4735271becb179fdd2ac9f61eca75"
+  },
+  {
+    "title": "The Robin Thoreau Wants to Find",
+    "summary": "A familiar robin song makes Thoreau want to find the very twig the bird is singing from, a small turn that reveals how much a name can leave out.",
+    "topic": "How recognizing a familiar sound can make us curious about its particular source",
+    "passage_index": 0,
+    "quote": "I heard a robin in the distance, the first I had heard for many a thousand years, methought, whose note I shall not forget for many a thousand more,—the same sweet and powerful song as of yore.",
+    "paragraphs": [
+      "Sleety rain is still dripping from the eaves when light suddenly fills Thoreau’s house. Yesterday, the pond was gray ice. Now it reflects what looks like a summer evening sky, although he can see no such sky overhead. In the middle of this oddly lit evening he hears a robin. The song is familiar enough for him to recognize immediately, yet he describes the time since he last heard it as thousands of years. Then he wants to find the twig the robin is sitting on.",
+      "The twig is a wonderfully precise thing to want. Thoreau already knows what kind of bird he’s hearing, and he even brings up its scientific name. But the name seems almost beside the point as he insists on this bird and this twig. It’s easy to imagine him satisfied to have heard the first robin of spring, a familiar event he could place alongside the thaw. Instead, the sound makes him wonder where, among all the branches outside his house, it is coming from.",
+      "Part of the pleasure of the scene is that familiarity gives him something to go on. The song sounds just as he remembers it. He can hear the return of a season in it because he has heard it before, on other evenings. Yet the more strongly it brings those evenings back, the more particular this evening seems to become. Finding the twig would add almost nothing to what he knows about robins. It would give him something quite different to remember about this one.",
+      "Suppose a friend is over for dinner and a song comes on while you’re both clearing the table. It takes a few bars for either of you to place it. Your friend finds the title on their phone and remembers that their older sister used to play it in the car. There’s a small decision right there, easy to miss while you’re stacking plates. The title might settle the question you were both trying to answer. The detail about the sister might leave you wondering where they used to drive.",
+      "You could easily know your friend for years and have a pretty good sense of what their childhood was like. You might know where they grew up and have met the sister at a birthday party. Even so, the information you have about the family leaves plenty of ordinary afternoons unaccounted for. A song can bring one of those afternoons to mind while your friend is standing at the sink. They might remember the long way home from school, or how often their sister restarted the track before it had finished. Of course, they might remember only the singing.",
+      "Thoreau’s wish stays a wish in this passage. He hears geese as the evening gets darker, watches them settle in the pond, and goes inside. The robin keeps its distance. That seems right for a scene in which so much happens at the edge of what he can see or hear. He can recognize the song and feel certain he’ll remember it for an absurdly long time, and still be left wondering about a twig. At the dinner table, too, the song may finish while the plates are still in your hands. You might hear it again months later and remember that brief mention of a sister, with the drive still as much a mystery as it was before."
+    ],
+    "question": "When a familiar song brings a moment back to someone you know, what small detail would you most like to hear about?",
+    "date": "2026-11-23",
+    "slug": "2026-11-23-the-robin-thoreau-wants-to-find",
+    "book_id": 205,
+    "book_title": "Walden",
+    "author": "Henry David Thoreau",
+    "source_url": "https://www.gutenberg.org/ebooks/205",
+    "source_start": 487,
+    "source_end": 493,
+    "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
   }
 ]
