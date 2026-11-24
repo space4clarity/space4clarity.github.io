@@ -931,5 +931,31 @@
     "source_start": 487,
     "source_end": 493,
     "source_sha256": "57720f6886eefdc9eacf8d1a492cb38287ca6d6b2fb11c440bcfd9eaa593ded9"
+  },
+  {
+    "title": "What Mrs. Bennet Hears in Mr. Collins’s Letter",
+    "summary": "Mr. Collins’s awkward apology softens Mrs. Bennet because it acknowledges who stands to lose the family home.",
+    "topic": "How acknowledging who bears the cost of an arrangement can make a conversation possible before any remedy is clear",
+    "passage_index": 2,
+    "quote": "I cannot be otherwise than concerned at being the means of injuring your amiable daughters, and beg leave to apologize for it, as well as to assure you of my readiness to make them every possible amends; but of this hereafter.",
+    "paragraphs": [
+      "Mr. Bennet has had a letter for about a month before he tells his wife and daughters who wrote it. The writer is Mr. Collins, the cousin who stands to inherit Longbourn. Mr. Bennet introduces him by pointing out that, once he himself is dead, Collins can turn them all out of the house. His wife objects to hearing about it, then immediately says how hard it is that the estate should pass away from their children. Jane and Elizabeth try once again to explain how the entail works.",
+      "The letter gives Mrs. Bennet something different to consider. Collins spends much of it explaining his reasons for patching up an old family quarrel and describing his obligations to Lady Catherine, who has given him a living. Buried in all that is an apology to the daughters. He says that inheriting the estate puts him in a position to injure them, and he offers to make amends. His account of what those amends might involve will have to wait. By the time he arrives, much of Mrs. Bennet’s ill will has subsided, to the surprise of her husband and daughters.",
+      "Elizabeth finds the apology puzzling. Collins would scarcely give up his place in the entail if he could, she reasons, so why apologize for it? Jane wonders what the offer could amount to and gives him credit for making it. Mrs. Bennet seizes on the possibility that he might do something for the girls. The same sentence sounds pompous to one listener, well meant to another, and worth following up to the person who has been talking about where her daughters will live.",
+      "Austen leaves room to wonder how much of Mrs. Bennet’s change of heart comes from hearing the injury acknowledged and how much comes from the prospect of amends. Both are in the letter, and Mrs. Bennet explicitly mentions the latter. Still, there is something striking about the acknowledgment itself. Her husband can joke about Collins’s guilt, and her daughters can explain how the estate passes to him. Collins, the person who stands to gain, puts into his own letter that there is an injury to the daughters for which he feels some responsibility. He can do that much before anyone knows what he is prepared to offer.",
+      "Imagine two siblings helping a parent move out of a rented house. One lives nearby and has already spent three Saturdays sorting kitchen drawers and waiting for people to collect furniture. The other, who lives farther away, keeps explaining that the lease ends on the last day of the month. The date matters to both siblings, but only one has been clearing her weekends. A phone call could go differently if the sibling who lives away began by saying he knew how many Saturdays the move had taken from her. The date would still be there, and so would a garage full of boxes.",
+      "From there, she might ask him to come for a weekend. She might ask him to call the people who keep changing their pickup times. She might be too tired to suggest anything that evening. The acknowledgment gives her an opening to describe the work as she experiences it. An offer made without that conversation could easily miss the part she most wants help with.",
+      "At Longbourn, the practical question is still open when Collins arrives. He compliments the daughters and expects they will all marry, which prompts Mrs. Bennet to tell him how little they may have to live on. She can now talk quite civilly about the entail with the man who will benefit from it. There is a modest shift in that exchange. The subject she could scarcely bear to hear mentioned at the start of the passage is one she can discuss directly with him by the end."
+    ],
+    "question": "When a conversation keeps returning to how an arrangement works, what would change if someone named who has been living with its costs?",
+    "date": "2026-11-24",
+    "slug": "2026-11-24-what-mrs-bennet-hears-in-mr-collins-s-letter",
+    "book_id": 1342,
+    "book_title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "source_url": "https://www.gutenberg.org/ebooks/1342",
+    "source_start": 642,
+    "source_end": 664,
+    "source_sha256": "81300b79e8a8d65ac530a97578417d06137e3bbc90622a10a65e5036183d2500"
   }
 ]
