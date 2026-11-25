@@ -957,5 +957,31 @@
     "source_start": 642,
     "source_end": 664,
     "source_sha256": "81300b79e8a8d65ac530a97578417d06137e3bbc90622a10a65e5036183d2500"
+  },
+  {
+    "title": "The Child Caroline Notices First",
+    "summary": "Caroline’s visit to a poor household in Frankenstein asks how much a first impression can shape where genuine generosity goes.",
+    "topic": "How a vivid first impression can direct genuine generosity toward one person among several with visible needs",
+    "passage_index": 1,
+    "quote": "Among these there was one which attracted my mother far above all the rest. She appeared of a different stock.",
+    "paragraphs": [
+      "Caroline Frankenstein finds five hungry children at a cottage near Lake Como. The adults are dividing a scanty meal, and Victor, who accompanies his mother on the visit, remembers one child drawing her attention immediately. The girl is thin and fair, with bright gold hair. Only after the foster mother notices Caroline looking at her does she explain who the girl is. Her name is Elizabeth Lavenza, and she has been living with the family since infancy. By the end of the passage, Caroline has brought her into the Frankenstein household.",
+      "Victor has already given us a reason to understand his mother’s interest in the household. As a young woman, Caroline earned what little she could while caring for her dying father. Victor’s father found her weeping by the coffin and took her into his care. Victor explicitly connects her habit of visiting poor families with her memory of having needed and received help. When she steps into the cottage, there is good reason to take her generosity seriously.",
+      "What catches my attention is the order in which Victor tells the story. Caroline sees Elizabeth’s face before she learns about her parents or the circumstances that brought her to the cottage. The passage then gives Elizabeth’s family history in detail, including her father’s lost property and uncertain fate. The other children stay mostly in the background. We know that they are hungry, but Victor gives us no comparable account of any one of them. By the time Caroline makes her offer, the reader has also spent a good deal more time looking at Elizabeth.",
+      "Victor’s description makes it hard to tell where his mother’s first impression ends and his own affection begins. He remembers Elizabeth as his adored companion. Even the image of her hair giving her a crown belongs to a narrator who already knows the place she will have in his life. Still, the scene gives us one observable detail. The foster mother sees where Caroline is looking and tells the corresponding story. Caroline’s attention helps determine what she has a chance to learn.",
+      "Something similar could happen at a neighborhood meeting where several families ask for help replacing broken appliances. One parent describes carrying two bags of wet laundry home on the bus after the laundromat closes. The people in the room can picture the bags, the bus ride, and the clothes still wet the next morning. Another family’s request appears as a line on a sheet of paper. By the time the group discusses what it can afford, the first family’s difficulty may feel better understood simply because someone had a chance to describe a Tuesday evening.",
+      "There may be good reasons to help that family first. Their story could reveal a difficulty the group’s application form never thought to ask about. The interesting moment comes when the group has to decide how much it knows about the other names on the sheet. A first impression can make people curious enough to find out what help would actually do. It can also determine whose circumstances get that second look.",
+      "Elizabeth’s foster parents love her, and they agree that the offer could spare her real hardship. That makes the scene more interesting than a simple example of favoritism. Something worthwhile happens because Caroline’s attention settles on one child. The meal being divided when she arrives belongs to the same scene, and it leaves the other children’s hunger just as plain as it was before anyone told Elizabeth’s story."
+    ],
+    "question": "When one person’s situation comes into focus, what would help you notice whose circumstances you still know only in outline?",
+    "date": "2026-11-25",
+    "slug": "2026-11-25-the-child-caroline-notices-first",
+    "book_id": 84,
+    "book_title": "Frankenstein",
+    "author": "Mary Shelley",
+    "source_url": "https://www.gutenberg.org/ebooks/84",
+    "source_start": 83,
+    "source_end": 91,
+    "source_sha256": "06c37d2c52d208d3d81eb12c3b10b5edbd7728b73554325ddceadbe2fb427e77"
   }
 ]
