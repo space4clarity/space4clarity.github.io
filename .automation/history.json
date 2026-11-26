@@ -983,5 +983,30 @@
     "source_start": 83,
     "source_end": 91,
     "source_sha256": "06c37d2c52d208d3d81eb12c3b10b5edbd7728b73554325ddceadbe2fb427e77"
+  },
+  {
+    "title": "Why Ben Starts the Story with the Farmer",
+    "summary": "Ben and Letty’s quarrel over how to tell a story raises a practical question about what a listener needs to hear first.",
+    "topic": "How departing from a familiar order can help a listener understand why an event matters",
+    "passage_index": 2,
+    "quote": "Well, but you must say what sort of a man he was first,” insisted Ben. “He was a wise man, like my father, and that made the people want his advice.",
+    "paragraphs": [
+      "Mrs. Garth has finished making her pies and moved toward the clothes-horse when she asks Ben and Letty to retell the story of Cincinnatus. Ben begins with a farmer at his plough. Letty wants to begin with the people who needed him, and she asks her mother to make Ben stop so she can tell the story in the order she heard it. Ben insists on explaining what kind of man the farmer was. He compares him to his father, whom he considers wise and brave, and asks his mother to confirm that his father could fight, too.",
+      "Ben can be hard to listen to. He insults Letty, and when his mother gives him the floor, he soon loses his way among the events and titles. Letty supplies the word he needs, with some satisfaction. Still, his opening has a purpose. He wants to explain why people would seek out this particular man. The comparison to his father suggests that he has found a way to make sense of that choice. He knows what it feels like to trust someone’s judgment, and he brings that feeling into a story about people whose circumstances he barely knows.",
+      "Letty has a reason to care about the order, too. Her mother told the story on Wednesday, and she remembers how the pieces fit together. When Ben gets to the fighting, his account grows vague enough to show what can go missing when someone relies on a general impression. The children’s quarrel leaves an interesting question open. How much of the order in which you learned something belongs to the thing itself, and how much belongs to the occasion on which you learned it?",
+      "Suppose two coworkers are preparing to explain why a neighborhood food pantry changed its pickup hours. One starts with the date of the volunteer meeting, then lists the proposals in the sequence in which they came up. The other starts with a detail from one of those proposals. Several people who relied on the evening bus were arriving just after the doors closed. Both coworkers have the same set of notes. The second account gives a new volunteer a reason to pay attention to the difference between closing at six and closing at six thirty.",
+      "That opening also gives the bus more weight. Maybe keeping a volunteer on site past six had been an equally important part of the discussion, and the shift became possible only when someone offered to stay. A listener who hears about the bus first may assume the staffing question was incidental. The person who sticks to the meeting’s sequence may preserve that part of the story more faithfully, especially if the offer to stay was what finally made a later closing possible. Either opening asks the listener to carry one fact for a while before hearing what it has to do with the others.",
+      "Mrs. Garth asks the children for a retelling, and they barely get through one before someone knocks at the door. Their unfinished account makes it possible to hear how much work those first few words were doing. Letty remembers a group of people who needed someone. Ben pictures a man they would have had reason to ask. Begin with the group and the listener waits to find out who can help. Begin at the plough and the listener waits to find out what could make a farmer leave his work. Each child has already given the listener a different question."
+    ],
+    "question": "When you explain a decision to someone who wasn’t there, what do you want them to be wondering about after your first sentence?",
+    "date": "2026-11-26",
+    "slug": "2026-11-26-why-ben-starts-the-story-with-the-farmer",
+    "book_id": 145,
+    "book_title": "Middlemarch",
+    "author": "George Eliot",
+    "source_url": "https://www.gutenberg.org/ebooks/145",
+    "source_start": 1424,
+    "source_end": 1460,
+    "source_sha256": "23640c07fcad3eecf144073fab9f2452beb4735271becb179fdd2ac9f61eca75"
   }
 ]
